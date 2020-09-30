@@ -1,4 +1,4 @@
-<h2> Stephen A. Cook Publications </h2>
+<h2> Publications </h2>
 
 <ul>
 
