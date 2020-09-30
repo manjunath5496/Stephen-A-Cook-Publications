@@ -117,4 +117,5 @@ Problems Complete for Deterministic Logarithmic Space</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Stephen-A-Cook-Publications/blob/master/scook(29).pdf" style="text-decoration:none;">A New Recursion-Theoretic Characterization of the Polytime Functions</a></li>                              
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Stephen-A-Cook-Publications/blob/master/scook(30).pdf" style="text-decoration:none;">On the Minimum Computation Time of Functions</a></li>   
   </ul>
